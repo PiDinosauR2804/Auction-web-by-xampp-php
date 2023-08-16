@@ -8,8 +8,7 @@ PHP-Intern
 - XAMPP: để tạo và quản lý môi trường máy chủ web.
 # Hướng dẫn cài đặt
 - Tải về database cho trang web (file AddMySql):
-    + Cách 1: thêm folder aution tới địa chỉ xampp\mysql\data tương ứng với máy bạn (Thường là: C:\xampp\mysql\data).
-    + Cách 2: Sử dụng XAMPP khởi động Apache và MySQL, sau đó thực thi các lệnh được lưu trong aution.sql để tạo bảng.
+    + Import vào localhost/phpmyadmin
 - Khởi chạy file index.php để bắt đầu vào trang web
 
 # Tài khoản:
