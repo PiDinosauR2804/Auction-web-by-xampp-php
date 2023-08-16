@@ -8,7 +8,7 @@ PHP-Intern
 - XAMPP: để tạo và quản lý môi trường máy chủ web.
 # Hướng dẫn cài đặt
 - Tải về database cho trang web (file AddMySql):
-    + Import vào localhost/phpmyadmin
+    + Import auction.sql vào localhost/phpmyadmin
 - Khởi chạy file index.php để bắt đầu vào trang web
 
 # Tài khoản:
